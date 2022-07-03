@@ -1,7 +1,14 @@
 body {
-	text-align: center
+	text-align: center;
+	background-color: black;
+	color: white;
 }
 
 img.icon {
 	width: 1em
+}
+
+a {
+	color: white;
+	font-weight: bold
 }
